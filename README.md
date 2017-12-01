@@ -1,5 +1,5 @@
 # Pingwiny
-Gra "Pinginy Z Rovaniemi"
+Game "Pinginy Z Rovaniemi"
 
 I am not an owner of any graphic or sound appearing in this game. Below is the list of files, their authors, license and source of downloading.
 

@@ -9,7 +9,7 @@ Images:
 
 * "foliageTree_03.png", "RTSobject_02.png", "RTSobject_05.png", "RTSobject_10.png", "topdownTile_42.png", "topdownTile_46.png", "topdownTile_50.png": Kenney, CC0 1.0 Universal, https://kenney.nl/assets/holiday-pack-2016
 
-* "Idle(1).png", "Jump (*).png" (* = 1,...,15), "Run (*).png" (* = 1,...,11): pzUH, CC0 1.0 Universal, https://opengameart.org/content/santa-claus-free-sprites
+* "Idle(1).png", "Jump (.).png" (. = 1,...,15), "Run (.).png" (. = 1,...,11): pzUH, CC0 1.0 Universal, https://opengameart.org/content/santa-claus-free-sprites
 
 * "Keyboard_Black_Arrow_Left.png", "Keyboard_Black_Arrow_Right.png", "Keyboard_Black_Arrow_Up.png", "Keyboard_Black_Space.png": xelu, CC0 1.0 Universal, https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack
 

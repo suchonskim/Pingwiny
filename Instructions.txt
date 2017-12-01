@@ -1,0 +1,48 @@
+# ENGLISH BELOW
+
+Pingwiny z Rovaniemi
+
+Ta gra jest projektem stworzonym w ramach przedmiotu Przetwarzanie i anaiza danych w języku Python, prowadzonym na wydziale MiNI PW przez dr hab. Marka Gągolewskiego. Autorem gry jest Michał Suchoński.
+
+Głównym bohaterem jest Święty Mikołaj, który pogubił prezenty i musi je jak najszybciej pozbierać, żeby na Święta mógł dotrzeć do wszystkich grzecznych dzieci. Jednak przeszkadzają mu w tym Pingwinki. Aby pokonać Pingwinka, który stoi Ci na drodze, należy strzelić w niego bąbelkiem, a następnie przebić ten bąbelek. Trzeba się pospieszyć, czas ucieka!
+
+Nawigacja po menu:
+- strzałki góra/dół - wybieranie opcji
+- enter - zatwierdzenie opcji/zmiana ustawień
+- spacja - wyjście ze strony z opisem sterowania
+
+Sterowanie:
+- strzałki prawo/lewo - chodzenie
+- strzałka w górę - skakanie
+- spacja - strzelanie bąbelkiem
+
+Prezenty:
+- niebieski - powoduje wielką radość u Mikołaja
+- czerwony - przyspieszenie
+- zielony - dalszy zasięg bąbelków
+
+Przejście do następnego poziomu: po wyeliminowaniu wszystkich Pingwinków z poziomu uaktywnia się dźwignia w postaci biało-czerwonej laski cukrowej, która otwiera przejście.
+
+
+Pingwiny z Rovaniemi (Penguins from Rovaniemi)
+
+This game is a project made as homework for Python for Data Processing and Analysis course with post-doctoral Marek Gągolewski. The author of this game is Michał Suchoński.
+
+Main character of the game is Santa Claus who lost his gifts and has to find them in order to give them to children. But the Penguins are against him. To fight the Penguin You have to shot him by a bubble and than pop it. Hurry up, the time is running!
+
+Main menu navigation:
+- up/down arrows - choose an option
+- enter - accept an option/change settings
+- space - back to main menu from Controls page
+
+Controls:
+- right/left arrows - walk
+- arrow up - jump
+- space - shoot a bubble
+
+Gifts:
+- blue - enjoy Santa
+- red - faster walk
+- green - wider range of bubbles
+
+Changing level: after defeating all the enemies of the level there is a lever activated. The lever looks like a red-white candy. It opens a door to next level.
